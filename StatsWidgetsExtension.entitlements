@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.cpa.widgets</string>
+		<string>group.cpa.widget</string>
 	</array>
 </dict>
 </plist>
